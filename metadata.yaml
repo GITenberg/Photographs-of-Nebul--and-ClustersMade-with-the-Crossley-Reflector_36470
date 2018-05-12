@@ -1,0 +1,33 @@
+_repo: Photographs-of-Nebul--and-ClustersMade-with-the-Crossley-Reflector_36470
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keeler, James Edward
+    aliases:
+    - Keeler, James E. (James Edward)
+    - Keeler, J. E. (James Edward)
+    birthdate: 1857
+    deathdate: 1900
+    gutenberg_agent_id: '38290'
+    url: http://www.gutenberg.org/2009/agents/38290
+    wikipedia: http://en.wikipedia.org/wiki/James_Edward_Keeler
+description: ''
+gutenberg_issued: '2011-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomical photography'
+- !lcsh 'Stars -- Clusters'
+- !lcsh 'Crossley reflector'
+- !lcc 'QB'
+- !lcsh 'Nebulae'
+title: Photographs of Nebulæ and Clusters, Made with the Crossley Reflector
+url: http://www.gutenberg.org/ebooks/36470
